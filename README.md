@@ -7,7 +7,8 @@ This project demonstrates building and deploying a **Flask web application** usi
 ---
 
 ## 📦 Architecture Diagram
-![Uploading 3431c835-4bb4-412b-bc0f-ae8bd7b5f977.png…]()
+![ChatGPT Image Jun 12, 2025, 05_07_18 PM](https://github.com/user-attachments/assets/9d939bcb-8e73-4dac-b270-9cd3aef811e3)
+
 
 ```
 GitHub → Jenkins (on EC2) → Docker Build → Container → Port 5000
